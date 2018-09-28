@@ -1,5 +1,5 @@
 # Remove an app from your organization's app catalog
-Remove the app from your organization's app catalog (the tenant app catalog). To remove your app from your organization's app catalog, specify `Organization` as the **distributionMethod** in the [teamsCatalogApp](../resources/teamscatalogapp.md) resource.
+Remove the app from your organization's app catalog (the tenant app catalog). To remove your app from your organization's app catalog, specify `organization` as the **distributionMethod** in the [teamsCatalogApp](../resources/teamscatalogapp.md) resource.
 
 ## Permissions
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](https://developer.microsoft.com/en-us/graph/docs/concepts/permissions_reference).
